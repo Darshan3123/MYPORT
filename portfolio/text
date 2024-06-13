@@ -1,0 +1,12 @@
+<ul class="fixed top-0 right-0 h-screen z-999 bg-white text-content flex-col items-start justify-start">
+          <li onclick=hideSidebar()><a href="#"><svg xmlns="http://www.w3.org/2000/svg" height="30px"
+                viewBox="0 -960 960 960" width="30px" fill="#111">
+                <path
+                  d="m256-200-56-56 224-224-224-224 56-56 224 224 224-224 56 56-224 224 224 224-56 56-224-224-224 224Z" />
+              </svg></a></li>
+          <li class="w-full "><a href="" class="w-full">home</a></li>
+          <li class="w-full "><a href="" class="w-full">Services</a></li>
+          <li class="w-full "><a href="" class="w-full">Projects</a></li>
+          <li class="w-full "><a href="" class="w-full">About Me</a></li>
+          <li class="w-full "><a href="" class="w-full">Blog</a></li>
+        </ul>
